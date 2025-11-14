@@ -4,7 +4,7 @@ import pandas as pd
 import numpy as np
 import requests
 import json
-import faiss
+import faiss_cpu as faiss
 import plotly.express as px
 import plotly.graph_objects as go
 from datetime import datetime
